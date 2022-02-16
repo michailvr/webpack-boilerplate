@@ -1,0 +1,16 @@
+# compiled output
+/dist
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+*.sublime-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# misc
+npm-debug.log
